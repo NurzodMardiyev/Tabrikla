@@ -1,4 +1,4 @@
-import { Button, Form, Input } from "antd";
+import { Form, Input } from "antd";
 import "../App.css";
 import { loginData } from "../types/login";
 import MaskedInput from "react-text-mask";
