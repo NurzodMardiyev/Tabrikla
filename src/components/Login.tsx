@@ -39,7 +39,7 @@ export default function Login() {
       <div className="container px-3 flex  flex-col ">
         <div className="flex flex-col items-center h-[40vh] justify-center">
           <div className="flex flex-col items-center">
-            <img src={logo} className="w-[300px]" alt="Tabriklaymiz logo" />
+            <img src={logo} className="max-w-[300px]" alt="Tabriklaymiz logo" />
             <img src={cong} alt="Tabriklaymiz" />
           </div>
         </div>
